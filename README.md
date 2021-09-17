@@ -34,7 +34,6 @@ Visual Studio IDE is reccomended to use this project but in the case of Visual S
      dotnet ef database update
      ```
 
-   ````
    To run own migrations use commands for Visual Studio:
    ```sh
    Add-Migration MigrationName
